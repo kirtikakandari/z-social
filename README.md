@@ -79,4 +79,4 @@ Contributions are welcome! Here's how you can help:
 
 ## Contact
 
-For any questions or inquiries, please contact at adityabansalsafe@gmail.com
+For any questions or inquiries, please contact at kirtikakandari@gmail.com
