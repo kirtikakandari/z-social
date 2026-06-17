@@ -44,7 +44,7 @@ A social media platform where users can upload image which have their descriptio
 Clone the project
 
 ```bash
-  git clone https://github.com/aditya-bansal-7/z-social
+  git clone https://github.com/kirtikakandari/z-social
 ```
 
 Go to the project directory
@@ -76,7 +76,6 @@ Contributions are welcome! Here's how you can help:
 4. **Commit your changes** with a clear message.
 5. **Push to your fork** and open a pull request to the `main` branch.
 
-For issues or feature requests, please open an issue [here](https://github.com/aditya-bansal-7/z-social/issues).
 
 ## Contact
 
